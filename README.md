@@ -1,2 +1,2 @@
 # sentinela
-Notebooks for sentinela project, portuguese toxic tweets classifier
+Portuguese toxic tweets classifier, created as a POC for São Paulo judicial chamber.
